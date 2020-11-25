@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "workbench.iconTheme": "vscode-icons",
+    "window.titleBarStyle": "native",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false,
+    "python.pythonPath": "/home/chitranshu/anaconda3/envs/coding/bin/python",
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.fontLigatures": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang",
+    "C_Cpp.default.intelliSenseMode": "clang-x64",
+    "C_Cpp.default.compilerArgs": [
+        "-Wall -Weffc++ -Wshadow -Wextra -Wsign-conversion -Werror -DLOCAL -O2"
+    ],
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++17 -Wall -Weffc++ -Wshadow -Wextra -Wsign-conversion -Werror -DLOCAL -O2 -o $fileNameWithoutExt $fileName && $dir$fileNameWithoutExt",
+    },
+    "color-highlight.markerType": "dot-before",
+    "liveServer.settings.donotVerifyTags": true,
+}

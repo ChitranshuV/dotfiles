@@ -1,0 +1,20 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1597401860692,
+		"name": "Font Rendering",
+		"sections": [
+			{
+				"code": "* {\n    text-shadow: transparent 0px 0px 0px, rgba(0, 0, 0, 0.70) 0px 0px 0px !important;\n}"
+			}
+		],
+		"updateDate": 1597401977735,
+		"_id": "c9b9fe88-ae04-4954-8c7e-232398f40d7d",
+		"_rev": 1600218645157,
+		"id": 1
+	}
+]
